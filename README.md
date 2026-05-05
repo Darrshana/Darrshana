@@ -1,7 +1,6 @@
 ### Hi, I’m Darrshana✌
 ----------------------
-- 👀 I’m interested in web development,application development and exploring new domains.
-- 🌱 I’m currently an undergrad at the College of Engineering,Guindy,Chennai.
+- I'm a Senior Software Engineer @Wells Fargo, Bengaluru, India
 - 📫 How to reach me :[email](mailto:darrshana17@gmail.com)
 
 <!---
